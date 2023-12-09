@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+sitemap:https://srdjanvts.github.io/pekarajs1/sitemap.xml
