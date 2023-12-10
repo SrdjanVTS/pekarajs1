@@ -76,7 +76,7 @@ nav a:hover::before{
 }
 
 .naslov-pozadina h2{
-    
+    position: fixed;
     padding-top: 8%;
     font-size: 70px;
     letter-spacing: 6px;
@@ -85,7 +85,7 @@ nav a:hover::before{
     color: rgb(243, 243, 243);
 }
  .naslov-pozadina #polje1{
-    
+    position: fixed;
     padding-top: 4%;
     font-size: 25px;
     letter-spacing: 5px;
@@ -102,6 +102,7 @@ nav a:hover::before{
     font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;
     color: rgb(243, 243, 243);
+    position: fixed;
 }
 .sadrzaj{
     width: 100%;
